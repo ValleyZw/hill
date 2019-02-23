@@ -6,3 +6,9 @@ Create Mathematical Animations with Jupyter Notebook
 <p align='center'>
 <img src='https://github.com/ValleyZw/hill/blob/master/static/taylor.png' width='600' alt='Taylor Series'>
 </p>
+
+## Fourier Series
+
+<p align='center'>
+<img src='https://github.com/ValleyZw/hill/blob/master/static/fourier.png' width='600' alt='Fourier Series'>
+</p>
