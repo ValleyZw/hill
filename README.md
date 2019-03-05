@@ -12,3 +12,15 @@ Create Mathematical Animations with Jupyter Notebook
 <p align='center'>
 <img src='https://github.com/ValleyZw/hill/blob/master/static/fourier.png' width='600' alt='Fourier Series'>
 </p>
+
+## Wavelet Transform
+
+<p align='center'>
+<img src='https://github.com/ValleyZw/hill/blob/master/static/wavelet.png' width='600' alt='Wavelet Transform'>
+</p>
+
+## Linear Regression
+
+<p align='center'>
+<img src='https://github.com/ValleyZw/hill/blob/master/static/linear_regression.png' width='600' alt='Linear Regression'>
+</p>
