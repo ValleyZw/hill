@@ -13,6 +13,12 @@ Create Mathematical Animations with Jupyter Notebook
 <img src='https://github.com/ValleyZw/hill/blob/master/static/fourier.png' width='600' alt='Fourier Series'>
 </p>
 
+## Fourier Transform
+
+<p align='center'>
+<img src='https://github.com/ValleyZw/hill/blob/master/static/fourier_transform.png' width='600' alt='Fourier Transform'>
+</p>
+
 ## Wavelet Transform
 
 <p align='center'>
