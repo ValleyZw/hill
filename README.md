@@ -36,3 +36,9 @@ Create Mathematical Animations with Jupyter Notebook
 <p align='center'>
 <img src='https://github.com/ValleyZw/hill/blob/master/static/logistic_regression.png' width='600' alt='Linear Regression'>
 </p>
+
+## Neural Network
+
+<p align='center'>
+<img src='https://github.com/ValleyZw/hill/blob/master/static/neural_network.png' width='600' alt='Linear Regression'>
+</p>
